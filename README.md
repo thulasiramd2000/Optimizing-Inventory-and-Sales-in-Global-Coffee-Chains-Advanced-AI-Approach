@@ -1,0 +1,2 @@
+# Optimizing Inventory Management and Sales Performance in Global Coffee Shop Chains: An Advanced AI Approach
+  A detailed analysis of the inventory data for a global coffee shop chain boasting over 1000 stores and $400 million in revenue. The primary goal is to enhance overall sales performance and operational efficiency by leveraging insights from sales predictions and inventory alignment, ultimately reducing waste..
